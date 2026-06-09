@@ -1,0 +1,1 @@
+const { contextBridge } = require('electron');\n\ncontextBridge.exposeInMainWorld('electron', {\n  getVersion: () => require('electron').app.getVersion(),\n});\n
