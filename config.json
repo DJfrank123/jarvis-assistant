@@ -1,0 +1,12 @@
+{
+  "voice_enabled": true,
+  "voice_language": "en-US",
+  "hand_detection_enabled": true,
+  "hand_detection_confidence": 0.7,
+  "use_local_llm": false,
+  "openai_model": "gpt-4",
+  "allow_system_commands": true,
+  "safe_mode": true,
+  "server_port": 8000,
+  "debug": true
+}

@@ -1,0 +1,41 @@
+# Core Framework
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+python-dotenv==1.0.0
+
+# Speech & Audio
+SpeechRecognition==3.10.0
+pydub==0.25.1
+Libreosa==0.10.0
+
+# Computer Vision & Hand Detection
+opencv-python==4.8.1.78
+mediapipe==0.10.5
+numpy==1.24.3
+scipy==1.11.4
+
+# AI & LLM
+openai==1.3.0
+requests==2.31.0
+
+# System & Utils
+psutil==5.9.6
+subprocess32==3.5.4
+appdirs==1.4.4
+
+# Data Processing
+pandas==2.1.3
+scikit-learn==1.3.2
+
+# WebSocket & Streaming
+aiohttp==3.9.1
+websockets==12.0
+
+# Logging & Config
+python-json-logger==2.0.7
+pyyaml==6.0.1
+
+# Testing (Optional)
+pytest==7.4.3
+pytest-asyncio==0.21.1
